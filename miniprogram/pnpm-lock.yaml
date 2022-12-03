@@ -1,0 +1,21 @@
+lockfileVersion: 5.4
+
+specifiers:
+  '@types/wechat-miniprogram': ^3.4.1
+  wechat-validate: ^0.0.1
+
+dependencies:
+  wechat-validate: 0.0.1
+
+devDependencies:
+  '@types/wechat-miniprogram': 3.4.1
+
+packages:
+
+  /@types/wechat-miniprogram/3.4.1:
+    resolution: {integrity: sha512-szbuYR32VotxNQNQ4YyQ6Ob3ya0tLY0zpf/xvi6DF8Oqb+0Y+5CL5BpxS+4wBSJvlu3VfSXhjxZ0ze1a3l16Pw==}
+    dev: true
+
+  /wechat-validate/0.0.1:
+    resolution: {integrity: sha512-k6vTkW2fy9RgQ1RIBN8Lga6PlPGnB4B7FnXCk/MzqkR0/+Eut/jJ9jNrPru4lwCJRkqdNQR2AkalWq5O4w07ig==}
+    dev: false

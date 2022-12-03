@@ -1,10 +1,10 @@
 {
   "name": "wechat-validate",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "gulp dev --develop",
+    "dev": "gulp dev",
     "build": "gulp build",
     "clean": "gulp clean",
     "prepare": "husky install"
